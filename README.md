@@ -86,6 +86,8 @@ ibus-daemon -drxR
 
 Once you have done this, open the ibus preferences, go to Input Method, click ADD and then select sitelen pona (the last option under the English category). Cartouches are typed with '\[', '\_', and '\]'. Long pi is started with 'pi_' and extended with '.
 
+There is also an [extension](https://ext.ulauncher.io/-/github-coljac-sitelen-pona-ulauncher) for the [Ulauncher](https://ulauncher.io/) launcher which converts latin input to UCSUR sitelen pona via the system clipboard.
+
 ### Android
 
 Two input engines for android exist:
